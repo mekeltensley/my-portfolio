@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_TWO')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['radiant-depths-60506.herokuapp.com']
+ALLOWED_HOSTS = ['mekel-tensley-portfolio.herokuapp.com']
 
 # Application definition
 
